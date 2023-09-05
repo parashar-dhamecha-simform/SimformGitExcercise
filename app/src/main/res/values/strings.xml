@@ -4,4 +4,6 @@
     <string name="title_registration_screen">Registration Screen</string>
     <string name="title_forgot_pass_screen">Forgot Password Screen</string>
     <string name="title_profile_screen">Profile Screen</string>
+    <string name="title_edit_profile_screen">Edit Profile Screen</string>
+
 </resources>
